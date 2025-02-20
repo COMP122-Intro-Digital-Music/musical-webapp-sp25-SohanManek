@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Chill Guitar",
+    "file": "samples/sample_1_web_app.mp3",
+    "bpm": "110",
+    "loop": "15s",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Heavy Rock Guitar Solo",
+    "file": "samples/sample_2_web_app.mp3",
+    "bpm": 120,
+    "loop": "12s",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Piano Beat",
+    "file": "samples/sample_3_web_app.mp3",
+    "bpm": 120,
+    "loop": "48s",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]

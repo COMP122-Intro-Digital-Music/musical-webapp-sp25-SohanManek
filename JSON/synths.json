@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "name": "Ancient",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": -141,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.105",
+        "attackCurve": "sine",
+        "decay": "0.155",
+        "decayCurve": "linear",
+        "release": "10",
+        "releaseCurve": "exponential",
+        "sustain": "0.505"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 10,
+        "type": "fatsine",
+        "count": 3,
+        "spread": 15
+      }
+    }
+  },
+  {
+    "name": "Disco",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": -7,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "0.905",
+        "releaseCurve": "ripple",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 13,
+        "type": "amsquare",
+        "harmonicity": 1,
+        "modulationType": "square"
+      }
+    }
+  }
+]
